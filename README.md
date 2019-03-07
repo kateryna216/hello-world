@@ -2,4 +2,4 @@
 
 Hello Everybody! 
 
-I am ready to struggle and have fun here by coding.
+I am ready to struggle and have fun here by coding!
